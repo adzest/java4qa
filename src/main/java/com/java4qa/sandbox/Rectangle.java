@@ -1,6 +1,6 @@
 package com.java4qa.sandbox;
 
-public class Rectangle {
+class Rectangle {
 
     public double a;
     public double b;

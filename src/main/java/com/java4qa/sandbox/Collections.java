@@ -1,12 +1,12 @@
 package com.java4qa.sandbox;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class Collections {
 
     public static void main(String[] args) {
+        //noinspection unused
         String[] langs = {"Java", "C#", "Python", "PHP"};
 
 //        List<String> languages = new ArrayList<String>();
